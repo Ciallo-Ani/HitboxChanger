@@ -7,3 +7,4 @@ All current features are fully supported and no changes to any plugins depending
 Note: Building for CSGO no longer requires the modified hl2sdk-CSGO.
 - Follow build instructions from https://wiki.alliedmods.net/Building_SourceMod
 
+
